@@ -1,0 +1,26 @@
+ul {
+  list-style-type: none;
+  margin: 25px;
+  padding: 0;
+  top: 0;
+  width: 100%;
+}
+h1 {
+	text-align:center;
+	text-decoration: underline;
+}
+
+li {
+	display: inline;
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+li a {
+  color: #666;
+}
